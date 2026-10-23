@@ -1,5 +1,4 @@
-<h1 align="center">Adolfo López Navas</h1>
-<p align="center"><strong>Backend Developer · Python & FastAPI</strong></p>
+[![Adolfo López Navas — Backend Developer](./assets/banner.png)](https://www.linkedin.com/in/adolfolopeznavas/)
 <p align="center">English · <a href="./README.es.md">Español</a></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/adolfolopeznavas/">LinkedIn</a> ·
@@ -52,3 +51,4 @@ I keep business rules in the service layer and database access in repositories. 
 ## Get in touch
 
 Find me on [LinkedIn](https://www.linkedin.com/in/adolfolopeznavas/).
+Email: adolfoln98@gmail.com
