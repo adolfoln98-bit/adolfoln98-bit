@@ -1,5 +1,4 @@
-<h1 align="center">Adolfo López Navas</h1>
-<p align="center"><strong>Backend Developer · Python & FastAPI</strong></p>
+[![Adolfo López Navas — Backend Developer](./assets/banner.png)](https://www.linkedin.com/in/adolfolopeznavas/)
 <p align="center"><a href="./README.md">English</a> · Español</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/adolfolopeznavas/">LinkedIn</a> ·
@@ -52,3 +51,4 @@ Mantengo las reglas de negocio en la capa de servicio y el acceso a datos en los
 ## Contacto
 
 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/adolfolopeznavas/).
+Email: adolfoln98@gmail.com
