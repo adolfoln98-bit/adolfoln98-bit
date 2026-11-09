@@ -18,7 +18,7 @@ Soy Técnico Superior en Desarrollo de Aplicaciones Web (DAW). A través de mis 
 **Backend** · Python, FastAPI, Pydantic, APIs REST  
 **Datos** · PostgreSQL, SQLite, SQLAlchemy, Alembic  
 **Autenticación y acceso** · JWT, OAuth2, permisos por roles, acceso por propietario del recurso  
-**Pruebas y herramientas** · Pytest, TestClient, Git, GitHub, Swagger / OpenAPI
+**Pruebas y herramientas** · Pytest, TestClient, Git, GitHub, Docker, Docker Compose, Swagger / OpenAPI
 
 ## Proyectos destacados
 
@@ -30,7 +30,7 @@ Backend de comercio electrónico para una tienda de perfumes. **En desarrollo.**
 - Lógica de compra que comprueba el stock, registra el precio unitario de compra, actualiza el inventario y vacía el carrito dentro de una transacción de base de datos.
 - Capas de repositorio y servicio, con pruebas automatizadas de pedidos correctos y casos como carritos vacíos o stock insuficiente.
 
-`Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Alembic` · `Pytest`
+`Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Alembic` · `Pytest` · `Docker` · `Docker Compose`
 
 ### [Client Management API](https://github.com/adolfoln98-bit/client-management-api)
 
@@ -51,4 +51,5 @@ Mantengo las reglas de negocio en la capa de servicio y el acceso a datos en los
 ## Contacto
 
 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/adolfolopeznavas/).
+
 Email: adolfoln98@gmail.com
