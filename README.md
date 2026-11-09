@@ -18,7 +18,7 @@ I hold a Higher Vocational Qualification in Web Application Development (DAW). T
 **Backend** · Python, FastAPI, Pydantic, REST APIs  
 **Data** · PostgreSQL, SQLite, SQLAlchemy, Alembic  
 **Authentication & access** · JWT, OAuth2, role-based permissions, resource ownership  
-**Testing & tools** · Pytest, TestClient, Git, GitHub, Swagger / OpenAPI
+**Testing & tools** · Pytest, TestClient, Git, GitHub, Docker, Docker Compose, Swagger / OpenAPI
 
 ## Selected projects
 
@@ -51,4 +51,5 @@ I keep business rules in the service layer and database access in repositories. 
 ## Get in touch
 
 Find me on [LinkedIn](https://www.linkedin.com/in/adolfolopeznavas/).
+
 Email: adolfoln98@gmail.com
