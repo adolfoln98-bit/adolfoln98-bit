@@ -30,7 +30,7 @@ An e-commerce backend for a perfume store. **In development.**
 - Checkout logic that checks stock, records the unit price at purchase, updates inventory and clears the cart in a database transaction.
 - Repository and service layers, with automated tests for successful orders and cases such as empty carts and insufficient stock.
 
-`Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Alembic` · `Pytest`
+`Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Alembic` · `Pytest` · `Docker` · `Docker Compose`
 
 ### [Client Management API](https://github.com/adolfoln98-bit/client-management-api)
 
